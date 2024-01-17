@@ -10,7 +10,6 @@ print(dt2)
 print(dt_now)
 print(dt3)
 
-
 #Превратите строку "01/01/25 12:10:03.234567" в объект datetime
 
 date_string = '01/01/2025'
